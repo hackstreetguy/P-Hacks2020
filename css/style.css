@@ -107,7 +107,7 @@ footer {
 }
 
 #home .btn-danger {
-    background: #ffa027;
+    background: #be1754;
     border-color: transparent;
 }
 
@@ -150,7 +150,7 @@ footer {
   }
   
   .cube1, .cube2 {
-    background-color: #f2545f;
+    background-color: #be1754;
     width: 15px;
     height: 15px;
     position: absolute;
@@ -216,7 +216,7 @@ footer {
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #f2545f;
+    color: #be1754;
 }
 
 .custom-navbar .navbar-nav>li>a:hover,
@@ -226,7 +226,7 @@ footer {
 
 .custom-navbar .nav li.active>a {
     background-color: transparent;
-    color: #f2545f;
+    color: #be1754;
 }
 
 .custom-navbar .navbar-toggle {
@@ -341,11 +341,11 @@ footer {
 }
 
 #faq h2 {
-    color: #752596;
+    color: #be1754;
 }
 
 #faq h4 {
-    color: #752596;
+    color: #be1754;
 }
 
 #faq p {
@@ -424,7 +424,7 @@ footer {
 }
 
 #sponsors h2 {
-    color: #f2545f;
+    color: #be1754;
 }
 
 #sponsors p {
@@ -440,7 +440,7 @@ footer {
 }
 
 #venue h2 {
-    color: #f2545f;
+    color: #be1754;
     font-size: 40px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -458,7 +458,7 @@ footer {
 }
 
 #detail .fa {
-    color: #f2545f;
+    color: #be1754;
     font-size: 48px;
 }
 
@@ -482,7 +482,7 @@ footer {
 }
 
 #speakers h2 {
-    color: #f2545f;
+    color: #be1754;
 }
 
 #speakers p {
@@ -490,7 +490,7 @@ footer {
 }
 
 #speakers h3 {
-    color: #f2545f;
+    color: #be1754;
     font-size: 18px;
     margin-bottom: 0px;
 }
@@ -550,7 +550,7 @@ footer {
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
-    color: #f2545f;
+    color: #be1754;
     cursor: default;
     background-color: transparent;
     border: 1px solid transparent;
@@ -582,7 +582,7 @@ footer {
 }
 
 .go-top:hover {
-    background: #f2545f;
+    background: #be1754;
     color: #ffffff;
 }
 
