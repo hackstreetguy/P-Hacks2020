@@ -627,7 +627,7 @@ footer {
         line-height: 20px;
     }
     #home {
-        height: 65vh;
+        height: 90vh;
     }
 }
 
@@ -664,7 +664,7 @@ footer {
 }
 
 .landing-logo {
-    width: 650px;
+    width: 350px;
 }
 @media (max-width : 768px) {
     .landing-logo{
