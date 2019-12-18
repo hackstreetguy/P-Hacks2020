@@ -96,7 +96,7 @@ footer {
     letter-spacing: 1px;
     font-size: 12px;
     padding: 14px 42px;
-    margin-top: 42px;
+    margin-top: 4px;
     margin-right: 12px;
     -webkit-transition: all 0.4s ease-in-out;
     transition: all 0.4s ease-in-out;
@@ -193,7 +193,8 @@ footer {
   }
 .custom-navbar {
     margin-bottom: 0;
-    background-color: #101010;
+    
+    background: linear-gradient(to right, #752596, #141E30);;
 }
 
 .custom-navbar .navbar-brand {
@@ -674,13 +675,13 @@ footer {
 
 .github{
     margin-top: -60px;
-    width: 700px;
+    width: 600px;
 }
 
 @media (max-width : 768px){
     .github{
         margin-top : -60px;
-        width: 300px;
+        width: 280px;
     }
 }
 
@@ -694,7 +695,7 @@ footer {
 @media (max-width : 768px){
     .cb{
         margin-top : -60px;
-        width: 150px;
+        width: 200px;
     }
 }
 
