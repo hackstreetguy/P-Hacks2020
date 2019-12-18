@@ -54,16 +54,16 @@ a {
 }
 
 #overview {
-    padding-top: 8rem;
-    padding-bottom: 8rem;
+    padding-top: 14rem;
+    padding-bottom: 14rem;
 }
 
 #detail,
 #program,
 #sponsors,
 #speakers {
-    padding-top: 10rem;
-    padding-bottom: 10rem;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
 }
 
 footer {
@@ -399,8 +399,8 @@ footer {
     position: absolute;
     line-height: 1;
     right: 1em;
-    top: 50%;
-    transform: translateY(-50%);
+    top: 30%;
+    /* transform: translateY(0%); */
 }
 
 #faq .panel-heading .panel-title a[data-toggle="collapse"].collapsed::after {
