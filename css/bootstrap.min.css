@@ -1380,7 +1380,8 @@ th {
 :before {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
-    box-sizing: border-box
+    box-sizing: border-box;
+    padding-top:5px;
 }
 
 html {
@@ -5094,7 +5095,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .container>.navbar-collapse,
 .container>.navbar-header {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
+     margin-bottom: 35px; /*  margin for mobile version */
 }
 
 @media (min-width:768px) {
@@ -7759,7 +7761,7 @@ button.close {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    margin-top:150px;
+    /* margin-top:150px; */
 }
 
 .pull-right {
