@@ -1659,6 +1659,7 @@ mark {
 
 .text-center {
     text-align: center
+    /* max-resolution: top 10px; */
 }
 
 .text-justify {
@@ -7757,7 +7758,8 @@ button.close {
 .center-block {
     display: block;
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
+    margin-top:150px;
 }
 
 .pull-right {
