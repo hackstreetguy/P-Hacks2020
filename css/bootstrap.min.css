@@ -1381,7 +1381,7 @@ th {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    /* padding-top:5px; */
+    /* padding-top:15px; */
 }
 
 html {
@@ -1548,7 +1548,7 @@ h6 small {
 h1,
 h2,
 h3 {
-    margin-top: 20px;
+    margin-top: 130px;
     margin-bottom: 10px
 }
 
