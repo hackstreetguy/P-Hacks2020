@@ -1381,7 +1381,7 @@ th {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    padding-top:5px;
+    /* padding-top:5px; */
 }
 
 html {
@@ -5096,7 +5096,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .container>.navbar-header {
     margin-right: -15px;
     margin-left: -15px;
-     margin-bottom: 35px; /*  margin for mobile version */
+     /* margin-bottom: 35px;  margin for mobile version */
 }
 
 @media (min-width:768px) {
